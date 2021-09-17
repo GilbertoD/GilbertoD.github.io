@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-I'm a PhD Student at University of California, Santa Barbara. My current research interests include Design and Analysis of Large-Scale Systems, Distributed Control, Game Theory and its Control Engineering Applications.
+I'm a PhD Student at University of California, Santa Barbara. I work under the supervision of Jason R. Marden. My current research interests include Design and Analysis of Large-Scale Systems, Distributed Control, Game Theory and its Control Engineering Applications.
 
 # Education
 
