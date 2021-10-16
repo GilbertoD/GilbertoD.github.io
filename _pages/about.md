@@ -22,7 +22,9 @@ I'm a PhD Student at University of California, Santa Barbara. I work under the s
 # Publications
 ## Journal Papers
 
-* A. F. Zambrano, <ins>G. Díaz-García</ins>, S. Ramírez, L. F. Giraldo, H. Gonzalez-Villasanti, M. T. Perdomo, I. D. Hernández, and J. M. Godoy, "Donation Networks in Underprivileged communities", IEEE Transactions on Computational Social Systems, pp. 1–10, 2020
+* <ins>G.Dı́az-Garcı́a</ins>, D. Guatibonza, and L. F. Giraldo, “Distributed reconfiguration for resilient synchronization of multi-agent systems,”IEEE Access,pp. 1–1, 2021
+
+* A. F. Zambrano, <ins>G. Díaz-García</ins>, S. Ramírez, L. F. Giraldo, H. Gonzalez-Villasanti, M. T. Perdomo, I. D. Hernández, and J. M. Godoy, "Donation Networks in Underprivileged communities", IEEE Transactions on Computational Social Systems, pp. 1–10, 2020. [[link]](https://ieeexplore.ieee.org/abstract/document/9262866)
 
 ## Conference Papers
 
