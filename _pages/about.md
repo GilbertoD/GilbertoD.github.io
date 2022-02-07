@@ -15,8 +15,8 @@ I'm a PhD Student at University of California, Santa Barbara. I work under the s
 
 # Education
 
-* M.Sc. in Electronic and Computer Engineering, University of Los Andes, 2020.
-* B.Sc. in Electronic Engineering, University of Los Andes, 2018.
+* M.S. in Electronic and Computer Engineering, University of Los Andes, 2020.
+* B.S. in Electronic Engineering, University of Los Andes, 2018.
 * Minor in Computational Mathematics, University of Los Andes, 2018.
 
 # Publications
