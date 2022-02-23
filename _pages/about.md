@@ -22,6 +22,7 @@ I'm a PhD Student at University of California, Santa Barbara. I work under the s
 # Publications
 ## Journal Papers
 
+* J. Martinez-Piazuelo, <ins>G. Díaz-García</ins>, N. Quijano and L. F. Giraldo, "Discrete-Time Distributed Population Dynamics for Optimization and Control," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. [[link]](https://ieeexplore.ieee.org/abstract/document/9716743)
 * <ins>G. Díaz-García</ins>, G. Narváez, L. F. Giraldo, J. Giraldo and A. A. Cardenas, "Resilient Structural Sparsity in the Design of Consensus Networks," in IEEE Transactions on Cybernetics, 2021. [[link]](https://ieeexplore.ieee.org/document/9619862)
 * <ins>G. Dı́az-Garcı́a</ins>, D. Guatibonza, and L. F. Giraldo, "Distributed Reconfiguration for Resilient Synchronization of Multi-Agent Systems," IEEE Access, 2021. [[link]](https://ieeexplore.ieee.org/document/9568925)
 * A. F. Zambrano, <ins>G. Díaz-García</ins>, S. Ramírez, L. F. Giraldo, H. Gonzalez-Villasanti, M. T. Perdomo, I. D. Hernández, and J. M. Godoy, "Donation Networks in Underprivileged communities", IEEE Transactions on Computational Social Systems, pp. 1–10, 2020. [[link]](https://ieeexplore.ieee.org/abstract/document/9262866)
