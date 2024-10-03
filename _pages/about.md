@@ -40,4 +40,4 @@ I'm a PhD Student at University of California, Santa Barbara. I work under the s
 * <ins>G. Diaz-Garcia </ins>, L. Burbano, N. Quijano, and L. F. Giraldo, "Distributed MPC and Potential Game Controller for Consensus in Multiple Differential-Drive Robots," in Proceedings of the 2019 IEEE 4th Colombian Conference on Automatic Control (CCAC), IEEE, 2019, pp. 1–6. [[link]](https://ieeexplore.ieee.org/abstract/document/8920881)
 
 ## Working Papers
-* <ins>G. Diaz-Garcia</ins>, K. Paarporn and J. R. Marden. "The Value of Compromising Strategic Intent in General Lotto Games (Extended Version with Proofs)". [[link]](https://gilbertod.github.io/files/Information%20in%20Lotto%20Games%20-%20Full%20Proofs.pdf)
+* <ins>G. Diaz-Garcia</ins>, K. Paarporn and J. R. Marden. "The Value of Compromising Strategic Intent in General Lotto Games (Extended Version with Proofs)". [[link]](https://gilbertod.github.io/files/info-lotto-proofs.pdf)
