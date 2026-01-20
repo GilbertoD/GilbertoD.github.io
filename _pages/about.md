@@ -32,7 +32,8 @@ I'm a PhD Student at University of California, Santa Barbara. I work under the s
 
 ## Conference Papers
 
-* <ins>G. Diaz-Garcia</ins>, K. Paarporn, and J. R. Marden, "When More Information Means Less: A Case Study in Asymmetric All-Pay Auctions," (Accepted for the 64th IEEE Conference on Decision and Control), 2025.
+* <ins>G. Diaz-Garcia</ins>, K. Paarporn, and J. R. Marden, "When More Information Means Less: A Case Study in Asymmetric All-Pay Auctions," in 2025 IEEE
+64th Conference on Decision and Control (CDC), IEEE, 2025, pp. 5387–5392. [[link]](https://ieeexplore.ieee.org/document/11312453)
 * <ins>G. Diaz-Garcia</ins>, K. Paarporn, and J. R. Marden, "The Value of Compromising Strategic Intent in General Lotto Games," in 2025 American Control
 Conference (ACC), IEEE, 2025, pp. 1554–1559. [[link]](https://ieeexplore.ieee.org/abstract/document/11108056) [[Exteded Version with Proofs]](https://arxiv.org/pdf/2410.01129)
 * Y. John, C. Hughes, <ins>G. Diaz-Garcia</ins>, J. R. Marden, and F. Bullo, "RoSSO: A High-Performance Python Package for Robotic Surveillance Strategy Optimization Using JAX," in 2024 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2024, pp. 2169–2175. [[link]](https://ieeexplore.ieee.org/abstract/document/10610477)
