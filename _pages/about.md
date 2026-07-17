@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-I'm a PhD Student at University of California, Santa Barbara. I work under the supervision of [Prof. Jason R. Marden](https://web.ece.ucsb.edu/~jrmarden/index.html) and [Prof. Francesco Bullo](https://fbullo.github.io/). My current research interests include Design and Analysis of Large-Scale Systems, Distributed Control, Game Theory and its Control Engineering Applications. [[Resume]](https://gilbertod.github.io/files/resume.pdf)
+I'm a PhD Student at University of California, Santa Barbara. I work under the supervision of [Prof. Jason R. Marden](https://web.ece.ucsb.edu/~jrmarden/index.html) and [Prof. Francesco Bullo](https://fbullo.github.io/). My current research interests include Design and Analysis of Large-Scale Systems, Distributed Control, Game Theory and its Control Engineering Applications. [[CV]](https://gilbertod.github.io/files/resume.pdf)
 
 # Education
 
